@@ -909,6 +909,10 @@ require('lazy').setup({
     'ThePrimeagen/vim-be-good',
   },
   {
+    'R-nvim/R.nvim',
+  },
+
+  {
     'fatih/vim-go',
   },
   { -- Highlight, edit, and navigate code
